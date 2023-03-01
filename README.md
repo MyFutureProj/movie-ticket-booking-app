@@ -1,11 +1,19 @@
 # Movie Ticket Booking
 
-## Tech Stack
+### Architecture:
+![img.png](Architecture_diagram.png)
+
+### Database Design:
+![img_1.png](Database-design.png)
+
+### Tech Stack:
     • Langaugae - Java 19
     • Frameworks- Spring boot
-    • Database - Postgresql
+    • Database - Postgresql, Mongo Db for one of the module
     • Integration technologies - Spring data JPA, Lombok
-    • Cloud technologies - NA
+    • Streaming technologies - Kafka
+    • Caching - Redis
+    • Logging - ELK stack
     • Preferred editor to build and present solution : Intellij
 
 
